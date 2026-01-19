@@ -16,6 +16,7 @@ __pycache__/
 *.py[cod]
 *.pyo
 *.pyd
+.python-version
 
 ############################
 # Jupyter Notebook
@@ -63,5 +64,4 @@ data/processed/*
 # IDE / Editor
 ############################
 .vscode/
-.idea/.python-version
-.python-version
+.idea/
