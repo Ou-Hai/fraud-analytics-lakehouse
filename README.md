@@ -13,3 +13,10 @@ and decision-support dashboards.
 - SQL-based KPI computation
 - ML-based fraud risk scoring
 - Risk bucket analysis and dashboards
+
+## Business Questions
+1. Which transaction types contribute most to fraud risk?
+2. How does fraud risk vary across different transaction amount ranges?
+3. Are fraudulent transactions temporally clustered over time?
+4. How effective is the existing rule-based fraud flagging compared to actual fraud labels?
+5. Can transactions be segmented into risk buckets to support operational decision-making?
