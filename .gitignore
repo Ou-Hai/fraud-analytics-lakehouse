@@ -63,4 +63,4 @@ data/processed/*
 # IDE / Editor
 ############################
 .vscode/
-.idea/
+.idea/.python-version
