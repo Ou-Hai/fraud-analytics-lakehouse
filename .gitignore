@@ -1,0 +1,66 @@
+############################
+# macOS system files
+############################
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+
+############################
+# Python
+############################
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+############################
+# Jupyter Notebook
+############################
+.ipynb_checkpoints/
+
+############################
+# Virtual environments
+############################
+.venv/
+venv/
+env/
+
+############################
+# Environment variables
+############################
+.env
+.env.*
+
+############################
+# Data files
+############################
+# Raw or large datasets (do not commit)
+data/raw/*
+!data/raw/.gitkeep
+
+# Optional: processed data if large
+data/processed/*
+!data/processed/.gitkeep
+
+############################
+# Model artifacts
+############################
+*.joblib
+*.pkl
+*.h5
+
+############################
+# Logs & temporary files
+############################
+*.log
+*.tmp
+
+############################
+# IDE / Editor
+############################
+.vscode/
+.idea/
